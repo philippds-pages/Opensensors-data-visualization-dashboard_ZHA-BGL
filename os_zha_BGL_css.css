@@ -1,0 +1,53 @@
+div img {
+   width: 100%;
+}
+
+#live
+{
+  text-align: right;
+  vertical-align: middle;
+  color: red;
+}
+
+#live a
+{
+  line-height: 10%;
+  vertical-align: middle;
+  font-size: 30px;
+  color: red;
+}
+
+#head
+{
+  line-height: 10%;
+}
+
+#i0
+{
+  color: red;
+}
+
+#i1
+{
+  color: black;
+}
+
+#i2
+{
+  color: black;
+}
+
+#i3
+{
+  color: black;
+}
+
+#i4
+{
+  color: black;
+}
+
+h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
